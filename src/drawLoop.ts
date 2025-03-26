@@ -1,6 +1,6 @@
 import { appState } from "./appState";
 import type p5 from "p5";
-import { Voronoi, filterSimilarPoints, getVoronoiPolygons } from "./voronoi";
+import { Voronoi, filterSimilarPoints, getVoronoiPolygons } from "./voronoi_claude_code";
 import { getVoronoiData } from "./tdWebsockets";
 
 const lerp = (a: number, b: number, t: number) => {
