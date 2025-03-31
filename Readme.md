@@ -9,3 +9,5 @@ or enter perform mode and the controls will be on the node arrangement.
 
 If nothing is rendering, try reloading the page in the `webBrowser` top
 in the top left of the node arrangement.
+
+Demo of it in action - [YouTube](https://youtu.be/IX7Llo-mllE)
